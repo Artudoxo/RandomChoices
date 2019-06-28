@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RandomChoices</string>
+    <string name="title">Random Choices</string>
+    <string name="sizetitle">46dp</string>
+    <string name="range">Escribe un rango:</string>
+    <string name="sizetextrange">24dp</string>
+    <string name="etmin">Rango minimo.</string>
+    <string name="etmax">Rango maximo</string>
+    <string name="txtsp1">Primer valor</string>
+    <string name="txtsp2">Segundo valor:</string>
+    <string name="ope">Operación:</string>
+    <string name="txtcontent">Calcular</string>
+</resources>
