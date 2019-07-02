@@ -11,4 +11,11 @@
         <item>Poland</item>
         <item>India</item>
     </string-array>
+
+    <string-array name="operations">
+        <item>Multiplicación</item>
+        <item>División</item>
+        <item>Suma</item>
+        <item>Resta</item>
+    </string-array>
 </resources>
